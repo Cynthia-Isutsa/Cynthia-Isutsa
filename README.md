@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nairobi Kenya.</h3>
 <img src="https://gifdb.com/images/high/girl-employer-branding-and-coding-mppit4lus55833c3.gif" alt="gif" width='400' align='right' />
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthia-isutsa&label=Profile%20views&color=0e75b6&style=flat" alt="cynthia-isutsa" /> </p>
 
 - 🔭 I’m currently working on [Barbra's Portfolio site](https://github.com/Cynthia-Isutsa/Barbra-Portfolio)
