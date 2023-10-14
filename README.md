@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Barbra's Portfolio site](https://github.com/Cynthia-Isutsa/Barbra-Portfolio)
 
-- 🌱 I’m currently learning **mySQL**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://isutsa-cynthia.netlify.app/](https://isutsa-cynthia.netlify.app/)
 
