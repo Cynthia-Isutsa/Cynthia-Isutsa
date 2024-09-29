@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthia-isutsa&label=Profile%20views&color=0e75b6&style=flat" alt="cynthia-isutsa" /> </p>
 
-- 🔭 I’m currently working on [Barbra's Portfolio site](https://github.com/Cynthia-Isutsa/Barbra-Portfolio)
+- 🔭 I’m currently working on [Deep-Work Application](https://github.com/Cynthia-Isutsa/Deep-Work-Application)
 
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://isutsa-cynthia.netlify.app/](https://isutsa-cynthia.netlify.app/)
 
-- 💬 Ask me about **react, next.js node.js and expressJS**
+- 💬 Ask me about **react, next.js, native-react, node.js and expressJS**
 
 - 📫 How to reach me **isutsacynthia@gmail.com**
 
