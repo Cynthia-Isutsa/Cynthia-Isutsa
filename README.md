@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Deep-Work Application](https://github.com/Cynthia-Isutsa/Deep-Work-Application)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Express**
 
 - 👨‍💻 All of my projects are available at [https://isutsa-cynthia.netlify.app/](https://isutsa-cynthia.netlify.app/)
 
-- 💬 Ask me about **react, next.js, native-react, node.js and expressJS**
+- 💬 Ask me about **react, next.js, remix, react-native, node.js and expressJS**
 
 - 📫 How to reach me **isutsacynthia@gmail.com**
 
