@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👨‍💻 All of my projects are available at [https://isutsa-cynthia.netlify.app/](https://isutsa-cynthia.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://isutsa-cynthia.netlify.app/](https://isutsacynthia.netlify.app/)
 
 - 💬 Ask me about **react, next.js, remix, react-native, node.js and expressJS**
 
